@@ -115,5 +115,3 @@ Back-End Developer | Automação & Análise de Dados
 Python • SQL • Streamlit • AWS
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucasdsgomes/
-git clone https://github.com/seu-usuario/abi-dashboard.git
-cd abi-dashboard
