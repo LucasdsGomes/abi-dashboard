@@ -6,7 +6,7 @@ O objetivo do projeto é transformar arquivos CSV em **insights executivos**, co
 
 ---
 
-https://github.com/user-attachments/assets/4fca564a-561a-4d0a-91ca-d48c6a3ef75e
+https://github.com/user-attachments/assets/752e73bd-24e1-4274-b177-559c867ac32b
 
 ---
 
